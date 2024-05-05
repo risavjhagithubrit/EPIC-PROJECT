@@ -1,1 +1,1 @@
-# School-Management-System
+# Adaptive Learning Platform
